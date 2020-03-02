@@ -1,5 +1,6 @@
-// function doubleIt(num){
-//     return num*2;
+ function doubleIt(num){
+     return num*2;
+}
 const doubleIt=num=>num*2
 const add=(x,y)=>x+y;
 const give5=()=>9;
